@@ -53,7 +53,7 @@ erwartet werden:
   ``...['default'] = time();``
 * **Auswahl**: Integer der ID des Wertes in Hochkomma |br|
   ``...['default'] = '2';``
-* **Mehfachauswahl**: Array mit den Alias-Werten aus der eingestellten Alias-Spalte |br|
+* **Mehrfachauswahl**: Array mit den Alias-Werten aus der eingestellten Alias-Spalte |br|
   ``...['default'] = array('einkauf', 'marketing');``
 * **Kontrollkästchen (Checkbox)**: true |br|
   ``...['default'] = true;``
